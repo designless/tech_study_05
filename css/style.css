@@ -22,3 +22,8 @@ li {
   font-size: 1.6rem;
   letter-spacing: 4px;
 }
+
+.copyright {
+  margin-top: 40px;
+  text-align: center;
+}
