@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(../images/fireworks.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 200px;
+  font-size: 4rem;
+  font-family: serif;
+  margin-bottom: 30px;
+}
+
+li {
+  font-size: 1.6rem;
+  letter-spacing: 4px;
+}
